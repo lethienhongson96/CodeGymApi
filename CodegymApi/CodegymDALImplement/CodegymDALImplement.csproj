@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CodegymDALInterface\CodegymDALInterface.csproj" />
+    <ProjectReference Include="..\CodegymDomain\CodegymDomain.csproj" />
+  </ItemGroup>
+
 </Project>
