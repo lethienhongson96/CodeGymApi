@@ -9,6 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodegymDALInterface", "Code
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodegymDALImplement", "CodegymDALImplement\CodegymDALImplement.csproj", "{D9DAB444-58D1-41E2-914F-AF8B6F056572}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodegymBALImplement", "CodegymBALImplement\CodegymBALImplement.csproj", "{957007DC-A7F6-4702-B956-CFC1321BB6B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodegymBALInterface", "CodegymBALInterface\CodegymBALInterface.csproj", "{93E5B053-4DF4-4D83-BE79-018678B7089F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodegymDomain", "CodegymDomain\CodegymDomain.csproj", "{CFB6E909-BDA7-4C9D-BEAB-1E055DAA104B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +33,18 @@ Global
 		{D9DAB444-58D1-41E2-914F-AF8B6F056572}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9DAB444-58D1-41E2-914F-AF8B6F056572}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9DAB444-58D1-41E2-914F-AF8B6F056572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{957007DC-A7F6-4702-B956-CFC1321BB6B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957007DC-A7F6-4702-B956-CFC1321BB6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957007DC-A7F6-4702-B956-CFC1321BB6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957007DC-A7F6-4702-B956-CFC1321BB6B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93E5B053-4DF4-4D83-BE79-018678B7089F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E5B053-4DF4-4D83-BE79-018678B7089F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E5B053-4DF4-4D83-BE79-018678B7089F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E5B053-4DF4-4D83-BE79-018678B7089F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFB6E909-BDA7-4C9D-BEAB-1E055DAA104B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB6E909-BDA7-4C9D-BEAB-1E055DAA104B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB6E909-BDA7-4C9D-BEAB-1E055DAA104B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB6E909-BDA7-4C9D-BEAB-1E055DAA104B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
